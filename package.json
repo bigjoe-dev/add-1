@@ -1,0 +1,23 @@
+{
+  "name": "add-1",
+  "version": "0.0.1",
+  "description": "A simple but taxing mind game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigjoe-dev/add-1.git"
+  },
+  "keywords": [
+    "game",
+    "thinking"
+  ],
+  "author": "bigjoe-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigjoe-dev/add-1/issues"
+  },
+  "homepage": "https://github.com/bigjoe-dev/add-1#readme"
+}
